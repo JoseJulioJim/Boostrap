@@ -1,2 +1,6 @@
 # Capcom
-Entrega 1er Parcial 5to semestre
+José Julio Jiménez del Valle
+
+Parcial 2 - Práctica 1
+
+
